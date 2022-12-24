@@ -88,6 +88,8 @@ def main():
     # Use the join method to create a string from the shuffled_words list, separated by spaces
     # Then print the resulting string with a message
     print("Shuffled sentence:", " ".join(shuffled_words))
+    print("")
+    print("Thank you for playing!")
 
 
 if __name__ == "__main__":
